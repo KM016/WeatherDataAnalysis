@@ -5,7 +5,7 @@ University Project
 
 # The Task
 
-This project focuses on analyzing pollution levels (specifically **PM10** and **PM2.5** particulate matter) in both urban and rural environments around London, UK. The analysis compares air quality in a highly urbanized traffic-heavy location (London Marylebone) with a rural site (Rochester Stoke), alongside meteorological data (temperature, wind, and precipitation). The goal is to understand the influence of location and weather on air pollution and the correlation between meteorological factors and pollutant levels.
+This project focuses on analyzing pollution levels (specifically **PM10** and **PM2.5** particulate matter) in both urban and rural environments around London, UK. The analysis compares air quality in a highly urbanised traffic-heavy location (London Marylebone) with a rural site (Rochester Stoke), alongside meteorological data (temperature, wind, and precipitation). The goal is to understand the influence of location and weather on air pollution and the correlation between meteorological factors and pollutant levels.
 
 ### Dataset
 
@@ -15,7 +15,7 @@ This project focuses on analyzing pollution levels (specifically **PM10** and **
 ### Project Goals
 
 1. **Compare pollution levels** in urban and rural areas.
-2. **Analyze daily trends** in pollution, particularly during different hours of the day.
+2. **Analyse daily trends** in pollution, particularly during different hours of the day.
 3. **Correlate meteorological factors** such as temperature, wind speed, and precipitation with PM10 and PM2.5 levels.
 4. **Investigate the effect of nitrogen dioxide** levels on particulate matter.
 
@@ -29,14 +29,14 @@ This project focuses on analyzing pollution levels (specifically **PM10** and **
 
 ### Steps Involved
 
-1. **Data Preprocessing**: Load and clean the datasets to remove missing or erroneous values. Organize the data to analyze the daily trends, overall pollution levels, and meteorological influences.
+1. **Data Preprocessing**: Load and clean the datasets to remove missing or erroneous values. Organise the data to analyze the daily trends, overall pollution levels, and meteorological influences.
 2. **Pollution Level Comparison**:
    - Compare **PM10** and **PM2.5** levels between the urban and rural sites.
    - Analyze hourly trends to identify peak pollution times during the day.
 3. **Correlation Analysis**:
    - Investigate the correlation between **nitrogen dioxide** and particulate matter.
    - Use a heatmap to explore relationships between meteorological factors and air pollutants (PM10, PM2.5).
-4. **Visualization**: Plot daily and hourly trends, and display the correlation between variables using heatmaps.
+4. **Visualisation**: Plot daily and hourly trends, and display the correlation between variables using heatmaps.
 
 ### Key Findings
 
